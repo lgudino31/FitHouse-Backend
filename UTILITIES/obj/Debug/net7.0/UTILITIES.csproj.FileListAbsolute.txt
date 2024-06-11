@@ -1,0 +1,15 @@
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\UTILITIES.csproj.AssemblyReference.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\UTILITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\UTILITIES.AssemblyInfoInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\UTILITIES.AssemblyInfo.cs
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\UTILITIES.csproj.CoreCompileInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\bin\Debug\net7.0\UTILITIES.deps.json
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\bin\Debug\net7.0\UTILITIES.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\bin\Debug\net7.0\UTILITIES.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\bin\Debug\net7.0\MODELOS.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\bin\Debug\net7.0\MODELOS.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\UTILITIES.csproj.Up2Date
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\UTILITIES.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\refint\UTILITIES.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\UTILITIES.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\UTILITIES\obj\Debug\net7.0\ref\UTILITIES.dll

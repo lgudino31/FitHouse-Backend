@@ -1,0 +1,11 @@
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\bin\Debug\net7.0\CONTROLLER.deps.json
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\bin\Debug\net7.0\CONTROLLER.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\bin\Debug\net7.0\CONTROLLER.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\obj\Debug\net7.0\CONTROLLER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\obj\Debug\net7.0\CONTROLLER.AssemblyInfoInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\obj\Debug\net7.0\CONTROLLER.AssemblyInfo.cs
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\obj\Debug\net7.0\CONTROLLER.csproj.CoreCompileInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\obj\Debug\net7.0\CONTROLLER.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\obj\Debug\net7.0\refint\CONTROLLER.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\obj\Debug\net7.0\CONTROLLER.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\CONTROLLER\obj\Debug\net7.0\ref\CONTROLLER.dll

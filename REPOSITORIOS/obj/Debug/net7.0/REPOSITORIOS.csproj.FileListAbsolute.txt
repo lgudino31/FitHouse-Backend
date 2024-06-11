@@ -1,0 +1,17 @@
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\bin\Debug\net7.0\REPOSITORIOS.deps.json
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\bin\Debug\net7.0\REPOSITORIOS.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\bin\Debug\net7.0\REPOSITORIOS.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\bin\Debug\net7.0\DATA.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\bin\Debug\net7.0\MODELOS.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\bin\Debug\net7.0\DATA.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\bin\Debug\net7.0\MODELOS.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\REPOSITORIOS.csproj.AssemblyReference.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\REPOSITORIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\REPOSITORIOS.AssemblyInfoInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\REPOSITORIOS.AssemblyInfo.cs
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\REPOSITORIOS.csproj.CoreCompileInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\REPOSITO.64CBE01C.Up2Date
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\REPOSITORIOS.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\refint\REPOSITORIOS.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\REPOSITORIOS.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\REPOSITORIOS\obj\Debug\net7.0\ref\REPOSITORIOS.dll

@@ -1,0 +1,12 @@
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\bin\Debug\net7.0\MODELOS.deps.json
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\bin\Debug\net7.0\MODELOS.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\bin\Debug\net7.0\MODELOS.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\MODELOS.csproj.AssemblyReference.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\MODELOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\MODELOS.AssemblyInfoInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\MODELOS.AssemblyInfo.cs
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\MODELOS.csproj.CoreCompileInputs.cache
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\MODELOS.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\refint\MODELOS.dll
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\MODELOS.pdb
+C:\Users\sonia\OneDrive\Escritorio\ProyectoV2\MODELOS\obj\Debug\net7.0\ref\MODELOS.dll
