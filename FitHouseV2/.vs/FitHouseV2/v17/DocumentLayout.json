@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\FitHouseV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD61318-D6A3-415C-BAC0-6B20CB7E3002}|..\\UTILITIES\\UTILITIES.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\utilities\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D2B96-F49D-4EED-90EF-B6C592D7AB97}|..\\SERVICIOS\\SERVICIOS.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\servicios\\interfaces\\iproductoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8D2B96-F49D-4EED-90EF-B6C592D7AB97}|..\\SERVICIOS\\SERVICIOS.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2E8654-B2CC-4ADE-835D-4AED4470C3CA}|..\\REPOSITORIOS\\REPOSITORIOS.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\repositorios\\interfaces\\irepoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2E8654-B2CC-4ADE-835D-4AED4470C3CA}|..\\REPOSITORIOS\\REPOSITORIOS.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\repositorios\\interfaces\\irepogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2E8654-B2CC-4ADE-835D-4AED4470C3CA}|..\\REPOSITORIOS\\REPOSITORIOS.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\repositorios\\repoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2E8654-B2CC-4ADE-835D-4AED4470C3CA}|..\\REPOSITORIOS\\REPOSITORIOS.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\repositorios\\repogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130CE44C-013E-4B58-8179-AC2493649E45}|FitHouseV2.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\fithousev2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130CE44C-013E-4B58-8179-AC2493649E45}|FitHouseV2.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE77622B-2973-41B5-8CDA-E24B1B92E3F1}|..\\DATA\\DATA.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEB2F2B-516B-4422-8CEC-2E27E3F14717}|..\\MODELOS\\MODELOS.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\modelos\\dtos\\productodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEB2F2B-516B-4422-8CEC-2E27E3F14717}|..\\MODELOS\\MODELOS.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\modelos\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130CE44C-013E-4B58-8179-AC2493649E45}|FitHouseV2.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\fithousev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130CE44C-013E-4B58-8179-AC2493649E45}|FitHouseV2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130CE44C-013E-4B58-8179-AC2493649E45}|FitHouseV2.csproj|c:\\users\\sonia\\onedrive\\escritorio\\proyectov2\\fithousev2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{130CE44C-013E-4B58-8179-AC2493649E45}|FitHouseV2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepoGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\REPOSITORIOS\\RepoGeneric.cs",
+              "RelativeDocumentMoniker": "..\\REPOSITORIOS\\RepoGeneric.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\REPOSITORIOS\\RepoGeneric.cs",
+              "RelativeToolTip": "..\\REPOSITORIOS\\RepoGeneric.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:21:53.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepoGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\REPOSITORIOS\\INTERFACES\\IRepoGeneric.cs",
+              "RelativeDocumentMoniker": "..\\REPOSITORIOS\\INTERFACES\\IRepoGeneric.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\REPOSITORIOS\\INTERFACES\\IRepoGeneric.cs",
+              "RelativeToolTip": "..\\REPOSITORIOS\\INTERFACES\\IRepoGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:59:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\UTILITIES\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "..\\UTILITIES\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\UTILITIES\\AutoMapper.cs",
+              "RelativeToolTip": "..\\UTILITIES\\AutoMapper.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:38:29.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\REPOSITORIOS\\RepoProducto.cs",
+              "RelativeDocumentMoniker": "..\\REPOSITORIOS\\RepoProducto.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\REPOSITORIOS\\RepoProducto.cs",
+              "RelativeToolTip": "..\\REPOSITORIOS\\RepoProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:22:11.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\REPOSITORIOS\\INTERFACES\\IRepoProducto.cs",
+              "RelativeDocumentMoniker": "..\\REPOSITORIOS\\INTERFACES\\IRepoProducto.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\REPOSITORIOS\\INTERFACES\\IRepoProducto.cs",
+              "RelativeToolTip": "..\\REPOSITORIOS\\INTERFACES\\IRepoProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:10:53.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\SERVICIOS\\ProductoServicio.cs",
+              "RelativeDocumentMoniker": "..\\SERVICIOS\\ProductoServicio.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\SERVICIOS\\ProductoServicio.cs",
+              "RelativeToolTip": "..\\SERVICIOS\\ProductoServicio.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:03:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\SERVICIOS\\Interfaces\\IProductoServicio.cs",
+              "RelativeDocumentMoniker": "..\\SERVICIOS\\Interfaces\\IProductoServicio.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\SERVICIOS\\Interfaces\\IProductoServicio.cs",
+              "RelativeToolTip": "..\\SERVICIOS\\Interfaces\\IProductoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:04:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\FitHouseV2\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\FitHouseV2\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:49:39.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\DATA\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DATA\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\DATA\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DATA\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:16:09.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\MODELOS\\DTOS\\ProductoDtos.cs",
+              "RelativeDocumentMoniker": "..\\MODELOS\\DTOS\\ProductoDtos.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\MODELOS\\DTOS\\ProductoDtos.cs",
+              "RelativeToolTip": "..\\MODELOS\\DTOS\\ProductoDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:11:17.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\MODELOS\\ENTIDADES\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\MODELOS\\ENTIDADES\\Producto.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\MODELOS\\ENTIDADES\\Producto.cs",
+              "RelativeToolTip": "..\\MODELOS\\ENTIDADES\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:12:16.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\FitHouseV2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\FitHouseV2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:32:01.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\FitHouseV2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sonia\\OneDrive\\Escritorio\\ProyectoV2\\FitHouseV2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T16:48:49.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
